@@ -1,0 +1,17 @@
+/* comentario xd */
+body {
+   
+    background-color: pink;
+    color: blueviolet;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+.nav{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+
+ul, ol {
+    list-style: none;
+}
